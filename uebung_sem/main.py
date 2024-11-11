@@ -1,1 +1,1 @@
-artikel = [['schuhe', 100], ['iphone', 1000], ['ipad', 800], ['airpods', 300], ['kugelschreiber', 2]]
+artikel = [['schuhe', 100, 20], ['iphone', 1000, 10], ['ipad', 800, 5], ['airpods', 300, 15], ['kugelschreiber', 2, 20]]
