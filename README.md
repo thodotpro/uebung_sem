@@ -5,6 +5,6 @@ artikel -> schuhe, iphone, ipad, airpod, kugelschreiber
 
 funktionsnamen: 
 
-* rabatt -> 
+* rabatt -> thomas
 * steuer -> angie
 * summe -> 
