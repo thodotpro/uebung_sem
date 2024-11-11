@@ -4,4 +4,12 @@ def rabatt():
     for i in artikel:
         print(i)
 
+# steuer funktion
+
+def steuer():
+    for i in artikel:
+        print(i)
+
 rabatt()
+
+def main():
