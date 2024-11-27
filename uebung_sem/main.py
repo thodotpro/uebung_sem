@@ -3,6 +3,7 @@ artikel = [['schuhe', 100, 20], ['iphone', 1000, 10], ['ipad', 800, 5], ['airpod
 discount = 0
 
 def discount():
+
     for item in artikel:
         if item[2]>=5:
             discount = 0.05
